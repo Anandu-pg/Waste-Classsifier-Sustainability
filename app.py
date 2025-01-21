@@ -17,7 +17,7 @@ def classify_waste(img):
     np.set_printoptions(suppress=True)
 
     # Load the model
-    model = load_model("model.h5", compile=False)
+    model = load_model("trained model/model.h5", compile=False)
 
     # Load the labels
     class_names = open("labels.txt", "r").readlines()
