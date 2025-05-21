@@ -1,2 +1,2 @@
-# Zero Waste AI
+# Waste Classsifier Sustainability
 Waste Classsifier Sustainability
